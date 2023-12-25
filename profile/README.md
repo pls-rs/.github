@@ -2,7 +2,7 @@
   <img height="128px" src="https://raw.githubusercontent.com/pls-rs/pls/main/readme_assets/pls.svg"/>
 </h1>
 
-[`pls`](https://pls-rs.github.io/pls/) is a prettier and powerful `ls(1)` for the pros.
+[`pls`](https://pls.cli.rs/) is a prettier and powerful `ls(1)` for the pros.
 
 - [GitHub](https://github.com/pls-rs/pls)
-- [Documentation](https://pls-rs.github.io)
+- [Documentation](https://pls.cli.rs/)
