@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img height="128px" src="https://raw.githubusercontent.com/pls-rs/pls/main/readme_assets/pls.svg"/>
-</h1>
+# <img src="readme_assets/logo.png" height="40" width="40" align="left"> pls
 
 [`pls`](https://pls.cli.rs/) is a prettier and powerful `ls(1)` for the pros.
 
